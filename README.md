@@ -37,7 +37,8 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### 1.2 Step 2: Clone This Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/terauss/Polymarket-Copy-Trading-Bot.git
+git clone 
 cd Polymarket-Copy-Trading-Bot
 ```
 
